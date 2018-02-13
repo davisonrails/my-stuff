@@ -1,3 +1,5 @@
+//this was another assignment for my CS class where I had to split up and replace parts of a string 
+
 public class LineEditor {
   
    String myLine = "computer science";
