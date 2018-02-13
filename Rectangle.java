@@ -1,3 +1,5 @@
+//this is the part where I had to use the instance variables, constructors, accessor and mutator methods, the whole 9 yards
+
 public class Rectangle {
     
     private double length;
