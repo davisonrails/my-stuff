@@ -1,3 +1,5 @@
+#I made this from a Python challenges website where there were a ton of little projects to complete
+
 import random
 
 score = 0
