@@ -1,3 +1,5 @@
+#this was just so I could help a friend out with his math problems (he insisted on using Google but I said no)
+
 import math
 
 a = int(input("Enter the coefficients of a: "))
