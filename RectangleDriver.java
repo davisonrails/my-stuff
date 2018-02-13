@@ -1,3 +1,5 @@
+//this is the runner class of Rectangle.java, it was an assignment for my AP CS A class
+
 import java.util.Scanner;
 public class RectangleDriver {
     public static void main(String []args){
