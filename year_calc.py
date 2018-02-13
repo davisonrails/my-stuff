@@ -1,3 +1,5 @@
+#it does what it says
+
 give_age = input("Give me your age: ")
 
 age = int(give_age)
